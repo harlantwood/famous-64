@@ -17,6 +17,10 @@
   "engines": {
     "node": ">= 0.10.0"
   },
+  "dependencies": {
+    "express": "*",
+    "gzippo": "*"
+  },
   "devDependencies": {
     "grunt": "~0.4.2",
     "grunt-update-submodules": "^0.3.0",
