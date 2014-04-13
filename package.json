@@ -1,18 +1,18 @@
 {
-  "name": "pegg-famous",
+  "name": "famous-template",
   "description": "Seed project to get started with Famo.us.",
   "version": "0.1.0",
-  "homepage": "https://github.com/auggernaut/pegg-famous",
+  "homepage": "https://github.com//famous-template",
   "author": {
-    "name": "Auggernaut",
-    "url": "http://github.com/auggernaut/"
+    "name": "Harlan T Wood",
+    "url": "http://github.com//"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/auggernaut/pegg-famous.git"
+    "url": "git://github.com//famous-template.git"
   },
   "bugs": {
-    "url": "https://github.com/auggernaut/pegg-famous/issues"
+    "url": "https://github.com//famous-template/issues"
   },
   "engines": {
     "node": ">= 0.10.0"
